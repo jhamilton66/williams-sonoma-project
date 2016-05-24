@@ -1,4 +1,4 @@
-# Basic Project Project 
+# Java Project Project 
 
 *Using Java Basic Concepts* Day 04
 
@@ -9,5 +9,6 @@
 * Primitives
 * Switch
 * If/Else
+* Branching
 
 [James Hamilton] (jameshamilton9878@comcast.net)
