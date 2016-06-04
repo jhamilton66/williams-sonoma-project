@@ -1,13 +1,11 @@
-# Basic Project Project 
+# Automation Project 
 
-*Using Java Basic Concepts* Day 04
+*Basic Automation Project Structure* Day 10
 
 **Java 7**
 
-* Scanner
-* String
-* Primitives
-* Switch
-* If/Else
+* Maven
+* TestNG
+* Selenium WebDriver
 
 [James Hamilton] (jameshamilton9878@comcast.net)
