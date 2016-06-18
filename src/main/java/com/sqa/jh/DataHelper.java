@@ -30,6 +30,10 @@ import com.sqa.jh.data.*;
  */
 public class DataHelper {
 
+	public static Object[][] getExcelFileData(String fileLocation, String fileName, Boolean hasLabels) {
+		return null;
+	}
+
 	public static Object[][] getTextFileData(String fileLocation, String fileName, TextFormat textFormat) {
 		return getTextFileData(fileLocation, fileName, textFormat, false);
 	}
