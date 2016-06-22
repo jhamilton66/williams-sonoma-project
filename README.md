@@ -1,7 +1,6 @@
 # Automation Project 
 
-*Basic Automation Project Structure* Day 19
-**Craigslist Project**
+*Basic Automation Project Structure*
 
 **Java 7**
 
@@ -9,4 +8,4 @@
 * TestNG
 * Selenium WebDriver
 
-[James Hamilton] (jameshamilton9878@comcast.net)
+[James Hamilton](jameshamilton9878@comcast.net)
