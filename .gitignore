@@ -135,3 +135,9 @@ hs_err_pid*
 
 # Test Output Directory
 test-output/
+
+# Screenshots
+screenshots/
+
+# Logs
+logs/
